@@ -12,17 +12,17 @@
 Glioblastoma remains the most aggressive and lethal primary malignant brain tumor in adults, with a 5-year survival rate languishing below 10%. This repository contains a comprehensive research manuscript analyzing recent advancements in glioblastoma molecular taxonomy (WHO CNS5), microenvironmental resistance mechanisms, and next-generation therapeutic modalities.
 
 ## 📑 Table of Contents
-1.(#introduction)
-2.(#molecular-taxonomy)
-3.(#resistance)
-4.(#epigenetics)
-5.(#metabolism)
-6.(#tme)
-7.(#immunotherapy)
-8.(#biophysics)
-9.(#nanomedicine)
-10.(#clinical-trials)
-11.(#radiomics)
+1. (#introduction)
+2. (#molecular-taxonomy)
+3. (#resistance)
+4. (#epigenetics)
+5. (#metabolism)
+6. (#tme)
+7. (#immunotherapy)
+8. (#biophysics)
+9. (#nanomedicine)
+10. (#clinical-trials)
+11. (#radiomics)
 12. Conclusion
 
 ## 🔬 Key Research Areas
